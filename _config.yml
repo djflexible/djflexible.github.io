@@ -1,0 +1,16 @@
+permalink: /:categories/:title.html
+url: "http://djflexible.github.io/"
+full_name: "djflexible"
+first_name: "djflexible"
+last_name: ""
+blog_title: "Go back to basics"
+author_img_name_path: "/images/users/user.jpg"
+disqus_shortname: "djflexible"
+copyright_year: "2016"
+google_analytics_code: "UA-74239935-1"
+aboutme: "dongdongalcohol@gmail.com"
+twitter: "dongdongalcohol"
+github: "djflexible"
+facebook: "djflexible89"
+linkined_url: ""
+markdown: kramdown
