@@ -1,7 +1,7 @@
 ---
 layout: blog
 title:  "알고리즘 - 선형 리스트(Linear List)"
-date:   2016-02-29
+date:   2016-03-01
 categories: blog
 ---
 # 1. 선형 리스트(Linear List)
