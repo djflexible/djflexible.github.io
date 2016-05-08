@@ -188,7 +188,7 @@ public class LinkedList_ex2 {
 }
 {% endhighlight %}
 
-중간에 데이터 추가 참고 그림
+'중간에 데이터 추가' 참고 그림
 
 ![linkedlist3](https://s3-ap-northeast-1.amazonaws.com/dongjoo/poster/dataStructure/linkedlist3.png)
 
