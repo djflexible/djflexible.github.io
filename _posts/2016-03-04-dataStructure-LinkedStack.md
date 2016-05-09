@@ -4,10 +4,10 @@ title:  "자료구조 - 스택(Stack)"
 date:   2016-03-04
 categories: blog
 ---
-# 1. 스택(Stack)
+# 스택(Stack)
 자료구조의 단순 연결리스트로 구현하는 스택을 만들어 본다.
 
-# 1.1. 정의
+# 1. 개념
 
 - 스택(Stack)이란 쌓아 올린다는 의미이다.
 - 시간순서에 따라 자료가 쌓이고, 삭제할 때는 가장 마지막에 삽입된 자료가 가장 먼저 삭제되는 후입선출(LIFO, Lirst In First Out)의 구조를 갖는다.
@@ -25,7 +25,7 @@ categories: blog
 ![linkedstack1](https://s3-ap-northeast-1.amazonaws.com/dongjoo/poster/dataStructure/linkedstack1.png)
 
 
-# 1.2. 구현
+# 2. 구현
 
 - 스택은 배열, 연결 리스트로 구현할 수 있다.
 - 스택은 삽입/삭제 연산이 빈번하므로 연결 리스트로 구현해본다. -> LinkedStack
