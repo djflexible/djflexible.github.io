@@ -33,6 +33,7 @@ categories: blog
 - 장점 : Ditect-Address Table과 비교하면 공간 낭비를 적게 한다.
 - 단점 : 한 개의 key값에 여러 개의 값이 저장되어 포화 상태가 될 경우 충돌이 발생한다.  => 체이닝을 사용하게 되어 시간 복잡도 증가
 - Ditect-Address Table와 Hash Table의 저장 구조 참고
+
 ![external](https://s3-ap-northeast-1.amazonaws.com/dongjoo/poster/algorithm/directAddressTable.png)
 ![external](https://s3-ap-northeast-1.amazonaws.com/dongjoo/poster/algorithm/hashTable.png)
 
