@@ -1,6 +1,6 @@
 # contact me
 
 dongdongalcohol@gmail.com
-&
-djflexible.github.io
+&&
+http://djflexible.github.io/ 
 
