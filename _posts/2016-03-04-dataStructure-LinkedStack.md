@@ -36,10 +36,12 @@ LinkedStack.java
 {% highlight java %}
 
 public class LinkedStack {
+
 	private Node top;
 	private int size = 0;
+	
 	private class Node{
-		private Object data; //node의 데이터
+		private Object data; 	//node의 데이터
 		private Node nextNode;	//다음 node를 가리킴
 
 	Node(Object data){	//마지막 노드
