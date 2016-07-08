@@ -34,6 +34,7 @@ categories: blog
 LinkedStack.java
 
 {% highlight java %}
+
 public class LinkedStack {
 	private Node top;
 	private int size = 0;
