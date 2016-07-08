@@ -4,6 +4,8 @@ title:  "자료구조 - 스택(Stack)"
 date:   2016-03-04
 categories: blog
 ---
+update : 2016-03-04
+
 # 스택(Stack)
 자료구조의 단순 연결리스트로 구현하는 스택을 만들어 본다.
 
@@ -34,7 +36,6 @@ categories: blog
 LinkedStack.java
 
 {% highlight java %}
-
 public class LinkedStack {
 
 	private Node top;
@@ -131,7 +132,6 @@ public class LinkedStack_Test {
 [guguru]: http://guguru.tistory.com/16
 [hyeonstorage]: http://hyeonstorage.tistory.com/258
 
-update : 2016-03-04
 
 
 
