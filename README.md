@@ -9,7 +9,7 @@ http://djflexible.github.io/
 
 OS : window를 기준
 
-Jekyll : Jekyll을 사용하기 위한 Ruby 기반의 모뮬 구성
+Jekyll : Jekyll을 사용하기 위한 Ruby 기반의 모듈 구성
 
 Github : Github에서 무료로 제공하는 페이지를 이용하기 위해 Jekyll과 연동. 이를 위해 git를 이용해 로컬 컴퓨터에 구성한 Jekyll 프로젝트를 Github 계정으로 전송
 
